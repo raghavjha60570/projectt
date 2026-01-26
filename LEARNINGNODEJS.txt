@@ -1,0 +1,183 @@
+# 🟢 Complete Node.js Learning Graph (Zero → Advanced)
+
+> **How to use this sheet**
+>
+> * Copy–paste this entire table into **Google Sheets**
+> * Replace ☐ with **Google Sheets checkboxes** (Insert → Checkbox)
+> * Complete topics in order; projects are checkpoints 🚀
+
+---
+
+## 📘 PHASE 0 – Programming & Web Foundations
+
+| Done | Topic             | Subtopics                        | Output / Check   |
+| ---- | ----------------- | -------------------------------- | ---------------- |
+| ☐    | JavaScript Basics | variables, data types, operators | small scripts    |
+| ☐    | Control Flow      | if/else, switch                  | logic clarity    |
+| ☐    | Loops             | for, while, do-while             | pattern problems |
+| ☐    | Functions         | declaration, arrow functions     | reusable code    |
+| ☐    | Scope & Hoisting  | var vs let vs const              | concept clarity  |
+| ☐    | JS Arrays         | map, filter, reduce              | array mastery    |
+| ☐    | JS Objects        | keys, values, destructuring      | object usage     |
+| ☐    | Error Handling    | try/catch                        | safe code        |
+| ☐    | JSON              | parse/stringify                  | API readiness    |
+| ☐    | HTTP Basics       | request, response, status codes  | web basics       |
+
+🔹 **Mini Project:** CLI Calculator
+
+---
+
+## 📘 PHASE 1 – Node.js Core Fundamentals
+
+| Done | Topic          | Subtopics                      | Output / Check |
+| ---- | -------------- | ------------------------------ | -------------- |
+| ☐    | Node.js Intro  | runtime, V8, event-driven      | mental model   |
+| ☐    | Node Setup     | node, npm, npx                 | local env      |
+| ☐    | Modules        | CommonJS vs ES Modules         | imports        |
+| ☐    | Global Objects | __dirname, __filename, process | environment    |
+| ☐    | File System    | fs read/write/append/delete    | file ops       |
+| ☐    | Path Module    | join, resolve                  | clean paths    |
+| ☐    | OS Module      | cpu, memory                    | system info    |
+| ☐    | Events         | EventEmitter                   | async handling |
+| ☐    | Streams        | read/write/pipe                | large files    |
+| ☐    | Buffers        | binary data                    | performance    |
+
+🔹 **Project 1:** File Manager CLI Tool
+
+---
+
+## 📘 PHASE 2 – Asynchronous & Internals (VERY IMPORTANT)
+
+| Done | Topic            | Subtopics                | Output / Check  |
+| ---- | ---------------- | ------------------------ | --------------- |
+| ☐    | Async JS         | callbacks, promises      | async flow      |
+| ☐    | async/await      | error handling           | clean async     |
+| ☐    | Event Loop       | call stack, queue        | interview ready |
+| ☐    | Libuv            | thread pool              | internals       |
+| ☐    | Non-blocking I/O | sync vs async            | scalability     |
+| ☐    | Timers           | setTimeout, setImmediate | scheduling      |
+| ☐    | Process          | env, argv                | CLI tools       |
+| ☐    | Child Processes  | spawn, fork              | multitasking    |
+| ☐    | Worker Threads   | CPU tasks                | performance     |
+
+🔹 **Project 2:** Async Task Scheduler
+
+---
+
+## 📘 PHASE 3 – Web Servers & Express.js
+
+| Done | Topic                | Subtopics           | Output / Check   |
+| ---- | -------------------- | ------------------- | ---------------- |
+| ☐    | HTTP Module          | createServer        | raw server       |
+| ☐    | Express Intro        | routing             | faster APIs      |
+| ☐    | Middleware           | custom & built-in   | request flow     |
+| ☐    | Routing              | params, query       | APIs             |
+| ☐    | Controllers          | MVC separation      | clean code       |
+| ☐    | Error Middleware     | global errors       | stability        |
+| ☐    | REST APIs            | GET/POST/PUT/DELETE | standards        |
+| ☐    | Request Validation   | express-validator   | safety           |
+| ☐    | Pagination & Filters | APIs                | production ready |
+
+🔹 **Project 3:** RESTful Notes App
+
+---
+
+## 📘 PHASE 4 – Databases & Data Layer
+
+| Done | Topic           | Subtopics                 | Output / Check |
+| ---- | --------------- | ------------------------- | -------------- |
+| ☐    | Database Basics | SQL vs NoSQL              | design choice  |
+| ☐    | MongoDB         | collections, documents    | NoSQL          |
+| ☐    | Mongoose        | schemas, models           | ODM            |
+| ☐    | CRUD Ops        | create/read/update/delete | data ops       |
+| ☐    | Indexing        | performance               | optimization   |
+| ☐    | Relationships   | refs vs embed             | modeling       |
+| ☐    | Transactions    | ACID                      | data safety    |
+| ☐    | Aggregations    | pipelines                 | analytics      |
+| ☐    | Redis           | caching                   | speed          |
+
+🔹 **Project 4:** Blog Backend with MongoDB
+
+---
+
+## 📘 PHASE 5 – Authentication & Authorization
+
+| Done | Topic             | Subtopics               | Output / Check |
+| ---- | ----------------- | ----------------------- | -------------- |
+| ☐    | Auth Basics       | sessions vs tokens      | concepts       |
+| ☐    | Password Hashing  | bcrypt                  | security       |
+| ☐    | JWT               | access & refresh tokens | stateless auth |
+| ☐    | Cookies           | httpOnly, secure        | auth storage   |
+| ☐    | OAuth             | Google/GitHub login     | social auth    |
+| ☐    | Role-Based Access | admin/user              | permissions    |
+| ☐    | Rate Limiting     | brute force             | protection     |
+
+🔹 **Project 5:** Secure Auth System
+
+---
+
+## 📘 PHASE 6 – Advanced Backend Concepts
+
+| Done | Topic          | Subtopics              | Output / Check  |
+| ---- | -------------- | ---------------------- | --------------- |
+| ☐    | WebSockets     | real-time              | live apps       |
+| ☐    | Socket.io      | rooms, events          | chats           |
+| ☐    | File Uploads   | multer, cloud storage  | media           |
+| ☐    | Email Services | nodemailer             | notifications   |
+| ☐    | Job Queues     | BullMQ                 | background jobs |
+| ☐    | Cron Jobs      | scheduling             | automation      |
+| ☐    | Caching        | Redis                  | performance     |
+| ☐    | API Versioning | backward compatibility | scaling         |
+
+🔹 **Project 6:** Real-Time Chat App
+
+---
+
+## 📘 PHASE 7 – Testing, Security & Performance
+
+| Done | Topic               | Subtopics      | Output / Check  |
+| ---- | ------------------- | -------------- | --------------- |
+| ☐    | Unit Testing        | Jest           | code confidence |
+| ☐    | Integration Testing | Supertest      | API tests       |
+| ☐    | Load Testing        | Artillery      | scaling         |
+| ☐    | Security Basics     | OWASP          | safe apps       |
+| ☐    | Helmet              | HTTP headers   | protection      |
+| ☐    | CORS                | policies       | access control  |
+| ☐    | Logging             | Winston/Morgan | monitoring      |
+
+🔹 **Project 7:** Production-Grade API
+
+---
+
+## 📘 PHASE 8 – Deployment & DevOps
+
+| Done | Topic              | Subtopics          | Output / Check |
+| ---- | ------------------ | ------------------ | -------------- |
+| ☐    | Environment Config | dotenv             | secrets        |
+| ☐    | Docker             | containers         | portability    |
+| ☐    | CI/CD              | GitHub Actions     | automation     |
+| ☐    | Cloud Hosting      | AWS / GCP / Render | live apps      |
+| ☐    | Reverse Proxy      | Nginx              | scaling        |
+| ☐    | PM2                | process manager    | uptime         |
+| ☐    | Monitoring         | logs, metrics      | reliability    |
+
+🔹 **Final Project:** Scalable SaaS Backend 🚀
+
+---
+
+## 🏆 CAPSTONE PROJECT IDEAS
+
+* Startup-ready REST API
+* E-commerce Backend
+* SaaS Authentication Service
+* Real-time Collaboration Tool
+
+---
+
+### 🔥 If you want next:
+
+* I can **export this as a real Google Sheet** structure
+* Create a **30-day Node.js execution plan** using this graph
+* Map this with **DSA + System Design** (CTO-level roadmap)
+
+Just say the word 👊
